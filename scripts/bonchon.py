@@ -1,2 +1,2 @@
 print("bonchon")
-print("Garlic de beste")
+print("SPICEY")
